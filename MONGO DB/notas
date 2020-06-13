@@ -1,0 +1,15 @@
+Curso Rápido de Mongo DB
+
+Inicializar Mongo
+*en consola en modo administrador mongo (escribir la sintaxis) y mongod (inicializar mongo)
+
+*comando show dbs - muestra todos las bases de datos
+
+*comando db- muestra la base de datos que estamos usando
+
+*comando use 'nombre de la base' - empezar una bd con el nombre que indicamos
+
+*crear un usuario
+db.createUser({})
+
+*comando db.nombreDeLaColeccion.find () - muestra todas los documentos dentro de la coleccion
